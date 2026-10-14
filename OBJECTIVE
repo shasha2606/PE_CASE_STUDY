@@ -1,0 +1,108 @@
+# Retail Sales & Promotional Performance — Case Study
+
+## 1. Case Study Overview
+
+Welcome to this analytical case study focused on retail sales performance, pricing, promotions, and distribution in an FMCG environment.
+
+You have been provided with a dataset containing product-level sales, promotional sales, and weighted distribution information across multiple market regions, retailers, brands, and SKUs.
+
+Your objective is to explore the data, identify meaningful business insights, and translate your findings into actionable commercial recommendations.
+
+The case study is designed to assess your analytical thinking, data handling, business understanding, and ability to communicate insights effectively.
+
+## 2. Time Allocation
+
+- **40 minutes:** Data exploration, analysis, and preparation of findings.
+- **15 minutes:** Presentation of your approach, key findings, and recommendations.
+- **5 minutes:** Discussion and follow-up questions.
+
+You may use Python, SQL, Excel, or any other analytical tool available to you.
+
+## 3. Business Questions
+
+### Question 1: Sales Performance and Key Drivers
+
+Which regions, retailers, brands are driving the highest sales volume and sales value?
+
+- Identify the strongest and weakest performers.
+- Examine sales performance across the available reporting periods.
+- Highlight any notable trends or differences across products, brands, retailers, or regions.
+
+**Expected outcome:** A concise overview of sales performance, key contributors, and areas requiring further investigation.
+
+### Question 2: Pricing and Realized Selling Price
+
+Calculate the average realized selling price using sales value and units sold.
+
+- Compare realized selling prices across SKUs, brands, and retailers.
+- Identify products with significant price differences.
+- Investigate whether these differences coincide with variations in sales performance.
+
+**Expected outcome:** An assessment of price variation and its observed relationship with sales performance.
+
+### Question 3: Promotional Sales Contribution
+
+Evaluate the contribution of promotional sales to overall business performance.
+
+- Calculate the promotional contribution to total units, volume, and sales value.
+- Identify products or retailers with high promotional dependence.
+- Compare promotional contribution with overall sales performance and identify notable patterns.
+
+**Expected outcome:** Insights into promotional sales contribution and potential areas for further promotional effectiveness analysis.
+
+### Question 4: Distribution and Sales Relationship
+
+Investigate the relationship between weighted distribution and sales performance.
+
+- Identify products with high distribution but relatively low sales.
+- Identify products with strong sales despite comparatively lower distribution.
+- Highlight potential commercial opportunities or risks based on your findings.
+
+**Expected outcome:** An assessment of the observed relationship between product availability and sales, supported by relevant metrics or visualizations.
+
+### Question 5: Commercial Recommendations and Analytical Limitations
+
+Based on your analysis, propose three actions that could help improve sales performance or promotional effectiveness.
+
+Additionally, explain:
+
+- How would you approach estimating price elasticity for these products?
+- What additional data would you require to estimate price elasticity reliably?
+- How would you establish a baseline and measure incremental promotional uplift?
+- What are the key limitations of the current dataset?
+
+**Expected outcome:** Three prioritized commercial recommendations, along with a clear explanation of the analytical approach and data requirements for further investigation.
+
+
+## 4. Important Considerations
+
+- Validate the data and check for missing values, duplicates, inconsistent formats, and unusual observations where relevant.
+- Clearly define the metrics you calculate and the assumptions you make.
+- Distinguish correlation from causation when interpreting relationships between price, promotions, distribution, and sales.
+- Promotional sales represent a subset of total sales; do not add promotional sales to total sales.
+- Promotional sales contribution should not be interpreted as incremental promotional uplift.
+- Average realized selling price is a derived metric and may be affected by product mix, pack size, and promotional activity.
+- Weighted distribution should be interpreted according to the measurement scale used in the dataset.
+- A complete causal price elasticity estimate generally requires additional price variation, suitable controls, and an appropriate modeling approach.
+- If a question cannot be conclusively answered with the available data, explain the limitation and describe how you would investigate it.
+
+## 5. Evaluation Criteria
+
+Your work will be assessed on the following dimensions:
+
+| Evaluation Area | What We Look For |
+|---|---|
+| Data handling and EDA | Data validation, appropriate aggregations, and metric accuracy |
+| Analytical thinking | Logical approach, meaningful comparisons, and identification of patterns |
+| Business understanding | Interpretation of pricing, promotional performance, and distribution |
+| Technical proficiency | Appropriate use of analytical tools and visualizations |
+| Recommendations | Actionable, prioritized, and evidence-based suggestions |
+| Communication | Clear presentation, structured reasoning, and acknowledgment of limitations |
+
+## 6. Final Objective
+
+Demonstrate how you would approach a real-world FMCG business problem using data.
+
+The goal is not simply to generate charts or calculate metrics, but to connect data-driven observations with business implications, identify what can and cannot be concluded, and propose the next steps needed to support better commercial decisions.
+
+**Good luck!**
